@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+  padding: 10px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+}
+
+.shop {
+  flex-basis: 30%;
+  text-align: left;
+  margin: .5%;
+}
